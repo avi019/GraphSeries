@@ -2,7 +2,8 @@
 #include <bits/stdc++.h>
 #include<iostream>
 using namespace std;
-
+//time complexity= O(n)+O(e) where e is the degree of the the vertices.
+//space complexity = O(3n).
 class Graph {
   public:
     
